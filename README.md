@@ -5,6 +5,7 @@
 # Description: This project includes:
 - ReactJS, NodeJS, ExpressJS, MongoDB;
 - React redux store to setup a global store;
+- Protected routes, privete routes
 - Styles with CSS;
 - A strong authentication system, Register, login;
 - Reset Password;
